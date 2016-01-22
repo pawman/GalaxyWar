@@ -1,0 +1,2 @@
+# GalaxyWar
+very simple game
