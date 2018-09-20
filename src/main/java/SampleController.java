@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 /**
  * Created by mandeckip on 2016-01-22.
  */
+a to jest dla TW-11
 
 @Controller
 @EnableAutoConfiguration
